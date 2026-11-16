@@ -53,3 +53,7 @@ Use the menu to:
 3. Update a student's email using their student ID.
 4. Delete a student using their student ID.
 5. Exit the program.
+
+## Video Link
+[Assignment 3 video demonstration](https://cmailcarletonca-my.sharepoint.com/:v:/g/personal/rutpatel_cmail_carleton_ca/IQCh4fFW5DCdQ4brBLxMqMyYAVnJF73YDMi-Je3TBaKU8W0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LUHlJR)
+[Assignment 3 video demonstration (YouTube)](https://youtu.be/PrxdDTN7Oxs)
